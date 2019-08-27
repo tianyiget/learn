@@ -3,5 +3,9 @@ include<string>
 int main()
 {
 	while(1);
-
+	
 }
+
+interrupt()
+{}
+
